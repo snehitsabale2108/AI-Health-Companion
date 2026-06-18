@@ -51,6 +51,11 @@
 
 ---
 
+## Application Link
+[AI Health Companion](https://aihealthcompanion.streamlit.app/)
+
+---
+
 ## 📖 Usage Guide
 
 1. **Set up your Health Profile** — Fill in the sidebar fields (goals, conditions, routines, preferences, restrictions) and click **Save Profile**.
